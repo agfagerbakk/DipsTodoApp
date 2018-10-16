@@ -1,6 +1,6 @@
-#  To-do List command line application
+#  To-do List Command Line Application
 
-This is a small command line based app for managing your tasks written in the DIPS 2019 summer internship process.  
+This is a small command line based app for managing your tasks.  
 
 ### Necessities
 The app is written in Python 3.6 and tested with unittesting. It is required to have Python installed to run the application.
