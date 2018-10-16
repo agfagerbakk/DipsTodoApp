@@ -1,4 +1,4 @@
-#  To-do List command line application
+#  To-do List Command Line Application
 
 This is a small command line based app for managing your tasks.  
 
