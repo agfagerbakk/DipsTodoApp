@@ -72,10 +72,10 @@ class Task:
 def todoLoop():
 	""" Input and console loop"""
 	todo = Task()
-	welcome_messages()
 	print('Welcome to the TodoApp!')
-	print('To add a task use the	 command "add" followed by a task you need to complete...')
+	print('To add a task use the command "add" followed by a task you need to complete...')
 	print('To mark your task completed and bask in your achievement use command "do + # of task, i.e do 1".')
+	print('To delete all tasks entries use command "delete all"\n')
 	print('To print all of your tasks use command "print".\n')
 
 	with open("todoList.txt", 'r') as f:
